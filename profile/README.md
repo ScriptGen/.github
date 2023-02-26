@@ -1,12 +1,3 @@
-## Hi there 👋
+## Hi there! We are ScriptGen 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ScriptGen is a non-profit organization on GitHub that provides free access to a wide variety of libraries to its users😊. Our mission is to foster a community of knowledge-sharing, where developers from all over the world can come together to learn and grow. With an emphasis on open-source software, ScriptGen is committed to making technology accessible to everyone, regardless of their background or financial means. We believe that by working together, we can create a more inclusive and equitable future for all. Join ScriptGen today and become a part of this thriving community!
